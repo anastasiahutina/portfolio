@@ -1,0 +1,22 @@
+{
+  "common": {
+    "pageTitle": "Hutina Anastasiia - UX/UI designer",
+    "firstName": "Anastasiia",
+    "lastName": "Hutina",
+    "middleName": "Sergiyevna",
+    "error": "",
+    "loading": "Loading..."
+  },
+  "about-me": {
+    "title": "About me"
+  },
+  "cases": {
+    "title": "Cases"
+  },
+  "my-process": {
+    "title": "My Process"
+  },
+  "contacts": {
+    "title": "Contacts"
+  }
+}
